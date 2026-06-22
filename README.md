@@ -32,3 +32,5 @@ https://cifertech.github.io/FirmwareHub/
 
 If the device is not detected by the COM ports, install the Silicon Labs VCP driver:
 https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers
+
+![image](https://github.com/Seph-esp/ESP32DIV-v2-Bruce/blob/main/20260619_180923.jpg)
